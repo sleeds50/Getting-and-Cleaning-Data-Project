@@ -27,4 +27,4 @@ summaries calculated, along with units; and any other relevant information.
 ##### 3. TidyDataSet.txt
 
 * a second, independent tidy data set with the average of each variable for each 
-activity and each subject
+activity and each subject.
