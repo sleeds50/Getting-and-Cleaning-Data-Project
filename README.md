@@ -1,7 +1,7 @@
 ### Getting and Cleaning Data Course Project: A Peer-Graded Assignment
 
 This repository contains the relevant files for the completion of the Coursera 
-"Getting and Cleaning Data" project, week 4. In preparing the data provided^[1]^ 
+"Getting and Cleaning Data" project, week 4. In preparing the data provided^[1] 
 to tidy for later analysis; and in addition to this README.md, the following 
 files are presented:
 
@@ -30,5 +30,5 @@ summaries calculated, along with units; and any other relevant information.
 activity and each subject.  
 
 ***
-~-Footnote-~  
+~Footnote~  
 [1] Data provided: [Human Activity Recognition Using Smartphones](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
