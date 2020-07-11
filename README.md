@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### Getting and Cleaning Data Course Project: A Peer-Graded Assignment
 
 This repository contains the relevant files for the completion of the Coursera 
@@ -28,3 +29,8 @@ summaries calculated, along with units; and any other relevant information.
 
 * a second, independent tidy data set with the average of each variable for each 
 activity and each subject.
+=======
+# Getting-and-Cleaning-Data-Project
+Files related to: Peer-graded Assignment: Getting and Cleaning Data Course Project
+hi!
+>>>>>>> 6d1811e83cb7f2d07c8b0cc19f66f98227cf0d1c
