@@ -1,7 +1,7 @@
 ### Getting and Cleaning Data Course Project: A Peer-Graded Assignment
 
 This repository contains the relevant files for the completion of the Coursera 
-"Getting and Cleaning Data" project, week 4. In preparing the data provided[^]
+"Getting and Cleaning Data" project, week 4. In preparing the data provided^[Data provided: [Human Activity Recognition Using Smartphones](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones/)]
 to tidy for later analysis; and in addition to this README.md, the following 
 files are presented:
 
@@ -9,7 +9,7 @@ files are presented:
 ##### 1. run_analysis.R
 
 * the R-coding following these stages after downloading and preparing the data, 
-as set out in the instructions[^]:
+as set out in the project instructions^[Project instructions: [Getting and cleaning data assignment ](https://www.coursera.org/learn/data-cleaning/peer/FIZtT/getting-and-cleaning-data-course-project/"Project instructions")]:
 
     * Merges the training and the test sets to create one data set.
     * Extracts only the measurements on the mean and standard deviation for each 
