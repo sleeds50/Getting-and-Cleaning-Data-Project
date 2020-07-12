@@ -12,17 +12,17 @@ files are presented:
 * the R-coding following these stages after downloading and preparing the data, 
 as set out in the main [project instructions](https://www.coursera.org/learn/data-cleaning/peer/FIZtT/getting-and-cleaning-data-course-project):
 
-    * Merges the training and the test sets to create one data set.
+    * Merge the training and the test sets to create one data set.
     * Extracts only the measurements on the mean and standard deviation for each 
       measurement.
-    * Uses descriptive activity names to name the activities in the data set
-    * Appropriately labels the data set with descriptive variable names.
+    * Use descriptive activity names to name the activities in the data set
+    * Appropriately label the data set with descriptive variable names.
     * From the data set in step 4, a second independent tidy data set with the 
       average of each variable for each activity and each subject.
 
 ##### 2. CodeBook.md 
 
-* including descriptions of the tidied data indicating the variables and 
+* includes descriptions of the tidied data indicating the variables and 
 summaries calculated, along with units; and any other relevant information.
 
 ##### 3. TidyDataSet.txt
