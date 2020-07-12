@@ -9,7 +9,7 @@ files are presented:
 ##### 1. run_analysis.R
 
 * the R-coding following these stages after downloading and preparing the data, 
-as set out in the project instructions^[Project instructions: [Getting and Cleaning Data assignment](https://www.coursera.org/learn/data-cleaning/peer/FIZtT/getting-and-cleaning-data-course-project)]:
+as set out in the main project instructions^[Project instructions: [Getting and Cleaning Data assignment](https://www.coursera.org/learn/data-cleaning/peer/FIZtT/getting-and-cleaning-data-course-project)]:
 
     * Merges the training and the test sets to create one data set.
     * Extracts only the measurements on the mean and standard deviation for each 
