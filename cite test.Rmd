@@ -1,0 +1,8 @@
+---
+title: "Untitled"
+author: "Stuart Leeds"
+date: "13/07/2020"
+output: html_document
+---
+
+\citep{haslam50YearsObedience2017}
